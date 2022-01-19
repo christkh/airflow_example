@@ -99,3 +99,24 @@
 [2022-01-19 00:43:33,418] {logging_mixin.py:109} INFO - [2022-01-19 00:43:33,417] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-01-19 00:43:33,439] {logging_mixin.py:109} INFO - [2022-01-19 00:43:33,438] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
 [2022-01-19 00:43:33,458] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py took 0.295 seconds
+[2022-01-19 00:44:03,825] {processor.py:163} INFO - Started process (PID=975) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-19 00:44:03,827] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-19 00:44:03,829] {logging_mixin.py:109} INFO - [2022-01-19 00:44:03,829] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-19 00:44:03,913] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-19 00:44:04,246] {logging_mixin.py:109} INFO - [2022-01-19 00:44:04,246] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-19 00:44:04,267] {logging_mixin.py:109} INFO - [2022-01-19 00:44:04,267] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-19 00:44:04,283] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py took 0.464 seconds
+[2022-01-19 00:44:35,232] {processor.py:163} INFO - Started process (PID=1032) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-19 00:44:35,235] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-19 00:44:35,237] {logging_mixin.py:109} INFO - [2022-01-19 00:44:35,237] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-19 00:44:35,298] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-19 00:44:35,317] {logging_mixin.py:109} INFO - [2022-01-19 00:44:35,317] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-19 00:44:35,348] {logging_mixin.py:109} INFO - [2022-01-19 00:44:35,348] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-19 00:44:35,365] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py took 0.140 seconds
+[2022-01-19 00:45:06,073] {processor.py:163} INFO - Started process (PID=1097) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-19 00:45:06,076] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-01-19 00:45:06,077] {logging_mixin.py:109} INFO - [2022-01-19 00:45:06,077] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-19 00:45:06,133] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py
+[2022-01-19 00:45:06,372] {logging_mixin.py:109} INFO - [2022-01-19 00:45:06,372] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-19 00:45:06,390] {logging_mixin.py:109} INFO - [2022-01-19 00:45:06,390] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-01-19 00:45:06,406] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_xcom.py took 0.339 seconds
